@@ -6,6 +6,7 @@ A collection of LeetCode 50 SQL questions to ace the SQL interview!
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/iamnkr67/SQL/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/iamnkr67/SQL/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/iamnkr67/SQL/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/iamnkr67/SQL/tree/master/1153-product-sales-analysis-i) |
