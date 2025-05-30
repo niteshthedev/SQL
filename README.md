@@ -15,4 +15,5 @@ A collection of LeetCode 50 SQL questions to ace the SQL interview!
 | [1811-fix-names-in-a-table](https://github.com/iamnkr67/SQL/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/iamnkr67/SQL/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/iamnkr67/SQL/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/iamnkr67/SQL/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
